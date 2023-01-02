@@ -3,7 +3,7 @@
     // If the device isn't listed below is will NOT be shown.
     // For a complete list returned from your particular aqualinkd instance
     // use the below URL and look at the ID value for each device.
-    // http://aqualink.192.168.86.184/?command=devices
+    http://aqualink.192.168.86.184/?command=devices
     var devices = [
         "Filter_Pump",
         "Spa_Mode",
